@@ -8,11 +8,16 @@ The shortcuts will also HEAVILY invade your privacy settings.
 You will need to enable handling of big data, execution of scripts and screen recording.
 
 The collection consists of these 5 shortcuts, which can either be run reperately to only sync one app or all together.
-calendarsToIpod https://www.icloud.com/shortcuts/7dca14cbcb9641e786d60d511b6e4425
-remindersToIpod https://www.icloud.com/shortcuts/09a42ec4aa0a4992bc26619d3b286246
-notesToIpod https://www.icloud.com/shortcuts/ce9353ba57674e9a8f6c66a96fab7db7
-copyToIpod https://www.icloud.com/shortcuts/0e35a933089a4145a4e20292c321749e
-syncIpod https://www.icloud.com/shortcuts/b5f2ec8885284f219e14d4ae16207cca
+
+**calendarsToIpod** https://www.icloud.com/shortcuts/7dca14cbcb9641e786d60d511b6e4425
+
+**remindersToIpod** https://www.icloud.com/shortcuts/09a42ec4aa0a4992bc26619d3b286246
+
+**notesToIpod** https://www.icloud.com/shortcuts/ce9353ba57674e9a8f6c66a96fab7db7
+
+**copyToIpod** https://www.icloud.com/shortcuts/0e35a933089a4145a4e20292c321749e
+
+**syncIpod** https://www.icloud.com/shortcuts/b5f2ec8885284f219e14d4ae16207cca
 
 ## calendarsToIpod
 Contains some Apple Script UI magic to export all calendars to .ics files. It is necessary to create an ~/iPodSync/calendars folder manually once and use it for export, after that the Calendar app will remember.
